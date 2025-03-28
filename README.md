@@ -1,2 +1,14 @@
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=18855669)
-# Axis of Awesome
+# Skittles Color Distribution 
+## Overview
+The project shows the distribution of Skittle colors based off of 50 bags.
+## Run the script
+To run the script you just have to open the terminal and type Axis.py it should pop up a bar graph and once you exit that it will show the percents in a pie chart. After that it will say my insight in the terminal of how there were mostly yellow Skittles and orange had the least. 
+## Data summary
+| Color | Count | 
+|----------|----------|
+| Yellow  | 624  |
+| Orange  | 566  |
+| Green  | 612  |
+| Purple  | 591  |
+| Red  | 573  |
+Insight: Yellow Skittles appear to be the most common, while Orange Skittles are the least common.
